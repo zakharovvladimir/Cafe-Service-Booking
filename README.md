@@ -110,3 +110,6 @@ sudo docker compose exec backend python manage.py load_data
 - [Админ-панель базы данных](http://127.0.0.1:8000/admin)
 # Авторы
 Людмила Давлетова, Владимир Захаров, Мадина Муминова, Дмитрий Коломейцев, Константин Гашев
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
